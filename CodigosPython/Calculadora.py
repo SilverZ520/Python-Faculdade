@@ -11,7 +11,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if b == 0:
-        return "Ei... Sem tentar divir por 0."
+        return "Ei... Sem tentar dividir por 0."
     return a / b
 
 print("Operações disponiveis: +, -, *, /")
