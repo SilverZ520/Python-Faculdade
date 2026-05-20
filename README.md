@@ -1,2 +1,2 @@
 # Python-Faculdade
-Algumas coisas que aprendi sobre Python.
+Alguns códigos que aprendi e escrevi durante minha formação sobre Python.
